@@ -21,3 +21,7 @@ print("---------HỌC GIT------------------")
 
 # Nếu push lần đầu tiên
 # git push --set-upstream origin master
+
+#Kéo folder từ github về máy
+
+#git clone https://github.com/nguienlong/hocpython1.git
