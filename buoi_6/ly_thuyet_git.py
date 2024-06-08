@@ -25,3 +25,6 @@ print("---------HỌC GIT------------------")
 #Kéo folder từ github về máy
 
 #git clone https://github.com/nguienlong/hocpython1.git
+
+
+list_u = []
