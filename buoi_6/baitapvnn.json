@@ -1,0 +1,26 @@
+[
+    {
+        "id": "ca6fc65a-1279-4dae-844e-e2c558624400",
+        "email": "longgggggggggggggggg222222222222222@gmail.com",
+        "birthday_date": "22/02/1999",
+        "pass": "111111111",
+        "name": "nguyen viet long4",
+        "phone_number": "0397048799",
+        "address": "HY",
+        "gender": "nam",
+        "chuc_vu": "nh\u00e2n vi\u00ean",
+        "ngay_tao": "7/6/2024 23:5"
+    },
+    {
+        "id": "1ab1e969-800a-4369-8b5e-c7b8e7e0b5ea",
+        "email": "long1212@gmail.com",
+        "birthday_date": "27/02/2000",
+        "pass": "12345678",
+        "name": "long bi",
+        "phone_number": "0815802471",
+        "address": "hn",
+        "gender": "nam",
+        "chuc_vu": "nh\u00e2n vi\u00ean",
+        "ngay_tao": "8/6/2024 10:59"
+    }
+]

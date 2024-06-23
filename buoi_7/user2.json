@@ -1,0 +1,114 @@
+[
+    {
+        "ten": "long1",
+        "ds_mon_hoc": {
+            "toan": 8.0,
+            "van": 5.5,
+            "li": 9.0,
+            "hoa": 4.0,
+            "su": 5.0,
+            "dia": 4.0,
+            "my_thuat": 8.0,
+            "am_nhac": 5.5,
+            "tieng_anh": 9.0
+        }
+    },
+    {
+        "ten": "long2",
+        "ds_mon_hoc": {
+            "toan": 7.0,
+            "van": 6.0,
+            "li": 8.0,
+            "hoa": 4.0,
+            "su": 5.0,
+            "dia": 6.5,
+            "my_thuat": 7.5,
+            "am_nhac": 4.0,
+            "tieng_anh": 5.0
+        }
+    },
+    {
+        "ten": "long3",
+        "ds_mon_hoc": {
+            "toan": 5.0,
+            "van": 4.0,
+            "li": 6.0,
+            "hoa": 8.0,
+            "su": 4.0,
+            "dia": 6.0,
+            "my_thuat": 1.0,
+            "am_nhac": 5.0,
+            "tieng_anh": 3.0
+        }
+    },
+    {
+        "ten": "long4",
+        "ds_mon_hoc": {
+            "toan": 9.0,
+            "van": 8.0,
+            "li": 7.0,
+            "hoa": 10.0,
+            "su": 8.0,
+            "dia": 9.0,
+            "my_thuat": 8.5,
+            "am_nhac": 9.0,
+            "tieng_anh": 9.0
+        }
+    },
+    {
+        "ten": "long5",
+        "ds_mon_hoc": {
+            "toan": 7.0,
+            "van": 8.0,
+            "li": 6.5,
+            "hoa": 5.5,
+            "su": 8.0,
+            "dia": 6.0,
+            "my_thuat": 9.0,
+            "am_nhac": 8.0,
+            "tieng_anh": 4.5
+        }
+    },
+    {
+        "ten": "long6",
+        "ds_mon_hoc": {
+            "toan": 4.0,
+            "van": 3.0,
+            "li": 1.0,
+            "hoa": 5.0,
+            "su": 6.0,
+            "dia": 5.0,
+            "my_thuat": 3.0,
+            "am_nhac": 4.0,
+            "tieng_anh": 2.0
+        }
+    },
+    {
+        "ten": "long7",
+        "ds_mon_hoc": {
+            "toan": 8.0,
+            "van": 9.0,
+            "li": 4.0,
+            "hoa": 5.0,
+            "su": 8.0,
+            "dia": 4.0,
+            "my_thuat": 8.0,
+            "am_nhac": 4.0,
+            "tieng_anh": 8.0
+        }
+    },
+    {
+        "ten": "long8",
+        "ds_mon_hoc": {
+            "toan": 9.0,
+            "van": 9.0,
+            "li": 9.0,
+            "hoa": 9.0,
+            "su": 9.0,
+            "dia": 9.0,
+            "my_thuat": 9.0,
+            "am_nhac": 9.0,
+            "tieng_anh": 9.0
+        }
+    }
+]
